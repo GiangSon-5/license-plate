@@ -33,7 +33,7 @@ Dự án *License Plate Recognition* là một ứng dụng nhận diện biển
 
 Dưới đây là ví dụ minh họa cách ứng dụng nhận diện biển số hoạt động:
 
-![Demo nhận diện biển số](https://github.com/GiangSon-5/license-plate/blob/main/demo/demo.gif)
+![Demo](https://raw.githubusercontent.com/GiangSon-5/license-plate/main/demo/demo.gif)
 
 
 
