@@ -67,13 +67,15 @@ Bạn có thể trải nghiệm hệ thống nhận diện khuôn mặt qua giao
 Dưới đây là sơ đồ trực quan mô tả các bước chính trong dự án nhận diện biển số xe:
 
 <p align="center">
-  <img src="flow/image1.jpg" width="100%"/>
+  <img src="https://github.com/GiangSon-5/license-plate/blob/main/flow/1.jpg" width="100%"/>
   <br>⬇️<br>
-  <img src="flow/image2.jpg" width="100%"/>
+  <img src="https://github.com/GiangSon-5/license-plate/blob/main/flow/2.jpg" width="100%"/>
   <br>⬇️<br>
-  <img src="flow/image3.jpg" width="100%"/>
+  <img src="https://github.com/GiangSon-5/license-plate/blob/main/flow/3.jpg" width="100%"/>
   <br>⬇️<br>
-  <img src="flow/image4.jpg" width="100%"/>
+  <img src="https://github.com/GiangSon-5/license-plate/blob/main/flow/4.jpg" width="100%"/>
+  <br>⬇️<br>
+  <img src="https://github.com/GiangSon-5/license-plate/blob/main/flow/5.jpg" width="100%"/>
 </p>
 
 ---
